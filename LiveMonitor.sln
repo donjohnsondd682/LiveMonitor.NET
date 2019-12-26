@@ -1,0 +1,185 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2C12CE71-F9F2-48F1-A11A-24FA2C4AB6C1}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		Documents\3635 P5 IRS ltr.doc = Documents\3635 P5 IRS ltr.doc
+		Documents\A rewrite of the P5 Live Monitor.docx = Documents\A rewrite of the P5 Live Monitor.docx
+		Documents\A Software Development Tutorial.pptx = Documents\A Software Development Tutorial.pptx
+		Documents\Appendix A PS Message Formats.doc = Documents\Appendix A PS Message Formats.doc
+		Documents\Appendix A PS Message Formats_Recovered.doc = Documents\Appendix A PS Message Formats_Recovered.doc
+		Documents\Appendix B Format 12 DRD Recording Formats.doc = Documents\Appendix B Format 12 DRD Recording Formats.doc
+		Documents\Appendix D MLU Interfaces.doc = Documents\Appendix D MLU Interfaces.doc
+		Documents\Appendix E LM_DMD to Display Formats.doc = Documents\Appendix E LM_DMD to Display Formats.doc
+		Documents\Appendix F Live Monitor Message Formats.doc = Documents\Appendix F Live Monitor Message Formats.doc
+		Documents\Appendix H and I Weapons Types and Aircraft Types.doc = Documents\Appendix H and I Weapons Types and Aircraft Types.doc
+		Documents\Appendix M P5 Filter Policy.doc = Documents\Appendix M P5 Filter Policy.doc
+		Documents\Appendix N IS Recording Formats.doc = Documents\Appendix N IS Recording Formats.doc
+		Documents\Appendix P TENA Interface.doc = Documents\Appendix P TENA Interface.doc
+		Documents\Appendix Q EAG ICD.doc = Documents\Appendix Q EAG ICD.doc
+		Documents\CorrespondenceToFromCubic.docx = Documents\CorrespondenceToFromCubic.docx
+		..\..\Users\DonAn\OneDrive\___GPS-Less Navigation\GPS-Less Navigation.docx = ..\..\Users\DonAn\OneDrive\___GPS-Less Navigation\GPS-Less Navigation.docx
+		Documents\IRS1598-01.doc = Documents\IRS1598-01.doc
+		LiveMonitor\LiveMonitor.csproj = LiveMonitor\LiveMonitor.csproj
+		LiveMonitor.vsd = LiveMonitor.vsd
+		Documents\P5 Ltr - 09-083.pdf = Documents\P5 Ltr - 09-083.pdf
+		Documents\readme.txt = Documents\readme.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBench", "TestBench\TestBench.csproj", "{76DC7A7A-B346-4663-819B-4AB2D2322E1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAA", "LAA\LAA.csproj", "{03B9385F-2A9C-4A49-9FE9-D0C2B09F567A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LATR", "LATR\LATR.csproj", "{763D8709-387C-4047-B0FD-5B8D71EC677E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EW", "EW\EW.csproj", "{FD3646F9-DD3C-477F-B144-FAF6D83F4D2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLUClient", "MLUClient\MLUClient.csproj", "{A0D6B50B-51EB-4B03-9EBC-DB1318E42822}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveMonitor", "LiveMonitor\LiveMonitor.csproj", "{5EF7353F-BCC4-4A43-8134-F6BBAE21DE73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Display", "Display\Display\Display.csproj", "{6201E22E-10AE-4DE0-BD5B-FB9D0E2F42C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76DC7A7A-B346-4663-819B-4AB2D2322E1C}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{76DC7A7A-B346-4663-819B-4AB2D2322E1C}.Debug|Any CPU.Build.0 = Debug|x86
+		{76DC7A7A-B346-4663-819B-4AB2D2322E1C}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{76DC7A7A-B346-4663-819B-4AB2D2322E1C}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{76DC7A7A-B346-4663-819B-4AB2D2322E1C}.Debug|Win32.ActiveCfg = Debug|x86
+		{76DC7A7A-B346-4663-819B-4AB2D2322E1C}.Debug|x86.ActiveCfg = Debug|x86
+		{76DC7A7A-B346-4663-819B-4AB2D2322E1C}.Debug|x86.Build.0 = Debug|x86
+		{76DC7A7A-B346-4663-819B-4AB2D2322E1C}.Release|Any CPU.ActiveCfg = Release|x86
+		{76DC7A7A-B346-4663-819B-4AB2D2322E1C}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{76DC7A7A-B346-4663-819B-4AB2D2322E1C}.Release|Mixed Platforms.Build.0 = Release|x86
+		{76DC7A7A-B346-4663-819B-4AB2D2322E1C}.Release|Win32.ActiveCfg = Release|x86
+		{76DC7A7A-B346-4663-819B-4AB2D2322E1C}.Release|x86.ActiveCfg = Release|x86
+		{76DC7A7A-B346-4663-819B-4AB2D2322E1C}.Release|x86.Build.0 = Release|x86
+		{03B9385F-2A9C-4A49-9FE9-D0C2B09F567A}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{03B9385F-2A9C-4A49-9FE9-D0C2B09F567A}.Debug|Any CPU.Build.0 = Debug|x86
+		{03B9385F-2A9C-4A49-9FE9-D0C2B09F567A}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{03B9385F-2A9C-4A49-9FE9-D0C2B09F567A}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{03B9385F-2A9C-4A49-9FE9-D0C2B09F567A}.Debug|Win32.ActiveCfg = Debug|x86
+		{03B9385F-2A9C-4A49-9FE9-D0C2B09F567A}.Debug|x86.ActiveCfg = Debug|x86
+		{03B9385F-2A9C-4A49-9FE9-D0C2B09F567A}.Debug|x86.Build.0 = Debug|x86
+		{03B9385F-2A9C-4A49-9FE9-D0C2B09F567A}.Release|Any CPU.ActiveCfg = Release|x86
+		{03B9385F-2A9C-4A49-9FE9-D0C2B09F567A}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{03B9385F-2A9C-4A49-9FE9-D0C2B09F567A}.Release|Mixed Platforms.Build.0 = Release|x86
+		{03B9385F-2A9C-4A49-9FE9-D0C2B09F567A}.Release|Win32.ActiveCfg = Release|x86
+		{03B9385F-2A9C-4A49-9FE9-D0C2B09F567A}.Release|x86.ActiveCfg = Release|x86
+		{03B9385F-2A9C-4A49-9FE9-D0C2B09F567A}.Release|x86.Build.0 = Release|x86
+		{763D8709-387C-4047-B0FD-5B8D71EC677E}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{763D8709-387C-4047-B0FD-5B8D71EC677E}.Debug|Any CPU.Build.0 = Debug|x86
+		{763D8709-387C-4047-B0FD-5B8D71EC677E}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{763D8709-387C-4047-B0FD-5B8D71EC677E}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{763D8709-387C-4047-B0FD-5B8D71EC677E}.Debug|Win32.ActiveCfg = Debug|x86
+		{763D8709-387C-4047-B0FD-5B8D71EC677E}.Debug|x86.ActiveCfg = Debug|x86
+		{763D8709-387C-4047-B0FD-5B8D71EC677E}.Debug|x86.Build.0 = Debug|x86
+		{763D8709-387C-4047-B0FD-5B8D71EC677E}.Release|Any CPU.ActiveCfg = Release|x86
+		{763D8709-387C-4047-B0FD-5B8D71EC677E}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{763D8709-387C-4047-B0FD-5B8D71EC677E}.Release|Mixed Platforms.Build.0 = Release|x86
+		{763D8709-387C-4047-B0FD-5B8D71EC677E}.Release|Win32.ActiveCfg = Release|x86
+		{763D8709-387C-4047-B0FD-5B8D71EC677E}.Release|x86.ActiveCfg = Release|x86
+		{763D8709-387C-4047-B0FD-5B8D71EC677E}.Release|x86.Build.0 = Release|x86
+		{FD3646F9-DD3C-477F-B144-FAF6D83F4D2B}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{FD3646F9-DD3C-477F-B144-FAF6D83F4D2B}.Debug|Any CPU.Build.0 = Debug|x86
+		{FD3646F9-DD3C-477F-B144-FAF6D83F4D2B}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{FD3646F9-DD3C-477F-B144-FAF6D83F4D2B}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{FD3646F9-DD3C-477F-B144-FAF6D83F4D2B}.Debug|Win32.ActiveCfg = Debug|x86
+		{FD3646F9-DD3C-477F-B144-FAF6D83F4D2B}.Debug|x86.ActiveCfg = Debug|x86
+		{FD3646F9-DD3C-477F-B144-FAF6D83F4D2B}.Debug|x86.Build.0 = Debug|x86
+		{FD3646F9-DD3C-477F-B144-FAF6D83F4D2B}.Release|Any CPU.ActiveCfg = Release|x86
+		{FD3646F9-DD3C-477F-B144-FAF6D83F4D2B}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{FD3646F9-DD3C-477F-B144-FAF6D83F4D2B}.Release|Mixed Platforms.Build.0 = Release|x86
+		{FD3646F9-DD3C-477F-B144-FAF6D83F4D2B}.Release|Win32.ActiveCfg = Release|x86
+		{FD3646F9-DD3C-477F-B144-FAF6D83F4D2B}.Release|x86.ActiveCfg = Release|x86
+		{FD3646F9-DD3C-477F-B144-FAF6D83F4D2B}.Release|x86.Build.0 = Release|x86
+		{A0D6B50B-51EB-4B03-9EBC-DB1318E42822}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{A0D6B50B-51EB-4B03-9EBC-DB1318E42822}.Debug|Any CPU.Build.0 = Debug|x86
+		{A0D6B50B-51EB-4B03-9EBC-DB1318E42822}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{A0D6B50B-51EB-4B03-9EBC-DB1318E42822}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{A0D6B50B-51EB-4B03-9EBC-DB1318E42822}.Debug|Win32.ActiveCfg = Debug|x86
+		{A0D6B50B-51EB-4B03-9EBC-DB1318E42822}.Debug|x86.ActiveCfg = Debug|x86
+		{A0D6B50B-51EB-4B03-9EBC-DB1318E42822}.Debug|x86.Build.0 = Debug|x86
+		{A0D6B50B-51EB-4B03-9EBC-DB1318E42822}.Release|Any CPU.ActiveCfg = Release|x86
+		{A0D6B50B-51EB-4B03-9EBC-DB1318E42822}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{A0D6B50B-51EB-4B03-9EBC-DB1318E42822}.Release|Mixed Platforms.Build.0 = Release|x86
+		{A0D6B50B-51EB-4B03-9EBC-DB1318E42822}.Release|Win32.ActiveCfg = Release|x86
+		{A0D6B50B-51EB-4B03-9EBC-DB1318E42822}.Release|x86.ActiveCfg = Release|x86
+		{A0D6B50B-51EB-4B03-9EBC-DB1318E42822}.Release|x86.Build.0 = Release|x86
+		{5EF7353F-BCC4-4A43-8134-F6BBAE21DE73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EF7353F-BCC4-4A43-8134-F6BBAE21DE73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EF7353F-BCC4-4A43-8134-F6BBAE21DE73}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{5EF7353F-BCC4-4A43-8134-F6BBAE21DE73}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{5EF7353F-BCC4-4A43-8134-F6BBAE21DE73}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{5EF7353F-BCC4-4A43-8134-F6BBAE21DE73}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5EF7353F-BCC4-4A43-8134-F6BBAE21DE73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EF7353F-BCC4-4A43-8134-F6BBAE21DE73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EF7353F-BCC4-4A43-8134-F6BBAE21DE73}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{5EF7353F-BCC4-4A43-8134-F6BBAE21DE73}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{5EF7353F-BCC4-4A43-8134-F6BBAE21DE73}.Release|Win32.ActiveCfg = Release|Any CPU
+		{5EF7353F-BCC4-4A43-8134-F6BBAE21DE73}.Release|x86.ActiveCfg = Release|Any CPU
+		{6201E22E-10AE-4DE0-BD5B-FB9D0E2F42C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6201E22E-10AE-4DE0-BD5B-FB9D0E2F42C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6201E22E-10AE-4DE0-BD5B-FB9D0E2F42C8}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{6201E22E-10AE-4DE0-BD5B-FB9D0E2F42C8}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{6201E22E-10AE-4DE0-BD5B-FB9D0E2F42C8}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{6201E22E-10AE-4DE0-BD5B-FB9D0E2F42C8}.Debug|Win32.Build.0 = Debug|Any CPU
+		{6201E22E-10AE-4DE0-BD5B-FB9D0E2F42C8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6201E22E-10AE-4DE0-BD5B-FB9D0E2F42C8}.Debug|x86.Build.0 = Debug|Any CPU
+		{6201E22E-10AE-4DE0-BD5B-FB9D0E2F42C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6201E22E-10AE-4DE0-BD5B-FB9D0E2F42C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6201E22E-10AE-4DE0-BD5B-FB9D0E2F42C8}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{6201E22E-10AE-4DE0-BD5B-FB9D0E2F42C8}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{6201E22E-10AE-4DE0-BD5B-FB9D0E2F42C8}.Release|Win32.ActiveCfg = Release|Any CPU
+		{6201E22E-10AE-4DE0-BD5B-FB9D0E2F42C8}.Release|Win32.Build.0 = Release|Any CPU
+		{6201E22E-10AE-4DE0-BD5B-FB9D0E2F42C8}.Release|x86.ActiveCfg = Release|Any CPU
+		{6201E22E-10AE-4DE0-BD5B-FB9D0E2F42C8}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6ABE14D-E8F2-476C-9A67-0CE1113A61F1}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 8
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://donjohnsondd682.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = EW\\EW.csproj
+		SccProjectName1 = EW
+		SccLocalPath1 = EW
+		SccProjectUniqueName2 = LAA\\LAA.csproj
+		SccProjectName2 = LAA
+		SccLocalPath2 = LAA
+		SccProjectUniqueName3 = LATR\\LATR.csproj
+		SccProjectName3 = LATR
+		SccLocalPath3 = LATR
+		SccProjectUniqueName4 = LiveMonitor\\LiveMonitor.csproj
+		SccProjectName4 = LiveMonitor
+		SccLocalPath4 = LiveMonitor
+		SccProjectUniqueName5 = MLUClient\\MLUClient.csproj
+		SccProjectName5 = MLUClient
+		SccLocalPath5 = MLUClient
+		SccProjectUniqueName6 = TestBench\\TestBench.csproj
+		SccProjectName6 = TestBench
+		SccLocalPath6 = TestBench
+		SccProjectUniqueName7 = Display\\Display\\Display.csproj
+		SccProjectName7 = Display/Display
+		SccLocalPath7 = Display\\Display
+	EndGlobalSection
+EndGlobal
